@@ -4,7 +4,7 @@ Complemento VBS para Presto que convierte los resúmenes de las partidas (concep
 
 ## Funcionamiento
 
-- Recorre todos los conceptos de la obra activa filtrados por naturaleza 5.
+- Recorre todos los conceptos de la obra activa filtrados por partidas.
 - Convierte el resumen a minúsculas salvo la inicial y los términos alfanuméricos (p. ej. `B500S`, `16mm`).
 - Los cambios son reversibles mediante la función Deshacer de Presto.
 - Registra en el log los valores originales y modificados para su revisión.
